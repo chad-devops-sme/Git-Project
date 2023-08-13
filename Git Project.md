@@ -2,7 +2,7 @@
 
 ## Step 1
 
-![Image](Images\git-1.jpg)
+![Image](Images\git-1.png)
 
 
 ## Step 2
